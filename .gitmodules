@@ -1,0 +1,9 @@
+[submodule "vutils_config"]
+	path = vutils_config
+	url = git@github.com:Wait845/vutils_config.git
+[submodule "vutils_logger"]
+	path = vutils_logger
+	url = git@github.com:Wait845/vutils_logger.git
+[submodule "vutils_consul_config"]
+	path = vutils_consul_config
+	url = git@github.com:Wait845/vutils_consul_config.git
